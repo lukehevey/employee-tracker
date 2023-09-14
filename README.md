@@ -2,15 +2,13 @@
     
   
   ## Table of Contents
-  -[Walkthrough](#walkthrough-video)
   -[Description](#description)
   -[Installation](#installation)
   -[Usage](#usage)
   -[Questions](#questions)
   
 
-  ## Walkthrough Video
-  [Walkthrough](https://watch.screencastify.com/v/MsGXg5IatWBTBRyDWGjM)
+  [Walkthrough Video](https://watch.screencastify.com/v/MsGXg5IatWBTBRyDWGjM)
 
   
   ## Description
