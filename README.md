@@ -1,16 +1,17 @@
 # Employee Tracker
-
-
-  ## Badges
-  
-  
+    
   
   ## Table of Contents
+  -[Walkthrough](#walkthrough-video)
   -[Description](#description)
   -[Installation](#installation)
   -[Usage](#usage)
   -[Questions](#questions)
   
+
+  ##Walkthrough Video
+  [Walkthrough](https://watch.screencastify.com/v/MsGXg5IatWBTBRyDWGjM)
+
   
   ## Description
   The purpose of this project was to create an employee tracker command-line application to manage a company's employee database. Node.js, Inquirer, and MYSQl were used in this application. Linking tables together in the database came with difficulty. I will continue to get better with databases.
