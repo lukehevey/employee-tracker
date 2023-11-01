@@ -215,7 +215,7 @@ addEmployee = async () => {
 };
 
 updateEmployee = async () => {
-  const sql = `UPDATE employees SET ?, WHERE ?;`;
+  const sql = `UPDATE employees SET ? WHERE ?;`;
   const [employeeChoices] = await db.promise().query(`
         SELECT 
             CONCAT(first_name, " ", last_name) as name,
